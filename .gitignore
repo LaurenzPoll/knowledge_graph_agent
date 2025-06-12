@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# FAISS index files
+*.faiss
+*.bin
+
+# VSCode workspace settings
+.vscode/
+
+/models

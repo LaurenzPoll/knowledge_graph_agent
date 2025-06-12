@@ -1,0 +1,28 @@
+/* Global resets and font */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Main content padding */
+main {
+  padding: 1rem 2rem;
+}
+
+/* Cytoscape container styling */
+.st-cytoscape {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Answer box styling */
+.streamlit-expanderHeader, .streamlit-container .element-container {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 4px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
+  margin-top: 1rem;
+}

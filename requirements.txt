@@ -1,0 +1,8 @@
+torch
+streamlit
+st-cytoscape
+ftfy
+langchain
+spacy
+networkx
+numpy
