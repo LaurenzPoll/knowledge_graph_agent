@@ -37,7 +37,7 @@ flowchart
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/...
+git clone https://github.com/LaurenzPoll/knowledge_graph_agent.git
 ```
 
 2. Create a virtual environment and install dependencies:
